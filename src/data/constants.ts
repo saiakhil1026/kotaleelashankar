@@ -24,8 +24,6 @@ export enum SkillNames {
   AWS = "aws",
   VIM = "vim",
   VERCEL = "vercel",
-  PYTHON = 'python',
-  SQL = 'sql',
 
 }
 export type Skill = {
