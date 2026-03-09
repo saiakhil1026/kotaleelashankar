@@ -1,0 +1,59 @@
+KOTALEELASHANKAR
+ +91 9160587018|# leelashankarkota@gmail.com|ï linkedin.com/in/leelasankarkota7|
+§ github.com/lschowdary999
+Education
+Parul University                                                                                                               June 2023 – Present
+B.Tech in Computer Science and Engineering (AI & ML)                                                                 CGPA: 7.72 (Till Date)
+Sri Gowtham Junior College                                                                                       June 2021 – Apr 2023
+Intermediate (MPC)                                                                                                                                          Percentage:  97.5%
+Saraswathi High School                                                                                               June 2020 – Apr 2021
+Secondary School Certificate (SSC)                                                                                                                 Percentage:  97.8%
+Experience
+Continual Engine                                                          May – August
+Data Analyst Intern
+•
+Worked as a Data Analyst Intern for 4 months at Continual Engine.
+•
+Developed new Form and Tree structure accessibility features in PDFs for visually impaired users using PAC
+Accessibility Checker and PREP.
+Projects
+Mano Vaktha – Blending Ancient Wisdom with AI| MERN Stack                September 2025 – October 2025
+•
+Developed a mental wellness platform integrating Google Gemini AI with ancient scriptures for personalized
+guidance.
+•
+Led frontend development using React, TypeScript, and Tailwind CSS, and implemented 3D UI elements with
+Three.js.
+•
+Built secure and scalable features including wellness journeys, stress analysis, and a multilingual chatbot.
+•
+Validated project effectiveness in consultation with a professional psychologist, improving stress relief outcomes.
+DOC-CONNECT| React, Node.js, Tailwind CSS
+•
+Developed a platform to help users find nearby doctors with detailed profiles and surgery/operation ratings for
+informed healthcare decisions.
+•
+Integrated appointment booking features with real-time doctor availability scheduling.
+•
+Designed a network-style interface to showcase doctor vacancies and open consultation slots, similar to a
+LinkedIn-style model for healthcare professionals.
+SWAP| React, Next.js, Tailwind CSS, TypeScript, Gemini API                                       November 2025 – Present
+•
+Built an AI-powered financial platform with Next.js, React, and Gemini API for smart currency conversion and
+market insights.
+•
+Developed a mobile-first full-stack app with wallet management, transaction history, and fund transfer features.
+•
+Designed a secure and scalable architecture with optimized state management and reusable components to improve
+performance and maintainability.
+Technical Skills
+Languages:  Java, Python, SQL (MySQL), NoSQL (MongoDB), JavaScript, HTML/CSS
+Frameworks:  React, Node.js, Flask, Django, Three.js, Tailwind CSS
+Data:  EDA (Exploratory Data Analysis), Web Scraping (BeautifulSoup)
+Developer Tools:  Git, VS Code, Visual Studio, PyCharm, IntelliJ, Eclipse, AWS
+Libraries:  Pandas, NumPy, Matplotlib, Seaborn
+Achievements
+•  Participated in national-level Bharatiya Antariksh Hackathon 2025.
+•  MEAN Stack Development certification by LernX.
+•  AWS CloudVerse certificate by AWS Cloud Club in collaboration with the AWS User Group Vadodara.
+----------------Page (0) Break----------------
